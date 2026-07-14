@@ -46,7 +46,7 @@ The dataset contains medical information such as:
 
 ---
 
-## 🤖 Machine Learning Models
+##  Machine Learning Models
 
 The following classification algorithms were implemented:
 
@@ -56,7 +56,7 @@ The following classification algorithms were implemented:
 
 ---
 
-## 📈 Model Evaluation Metrics
+##  Model Evaluation Metrics
 
 The models were evaluated using:
 
@@ -76,13 +76,13 @@ The models were evaluated using:
 | Decision Tree | 74.68% |
 | Random Forest | 73.38% |
 
-### 🏆 Best Performing Model
+###  Best Performing Model
 
 **Logistic Regression** achieved the highest accuracy (75.32%) and was selected as the best-performing model for this dataset.
 
 ---
 
-## 📂 Project Workflow
+##  Project Workflow
 
 1. Import Required Libraries
 2. Load Dataset
@@ -110,7 +110,7 @@ CodeAlpha_Disease_Prediction/
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Hyperparameter tuning using GridSearchCV
 - Cross-validation
@@ -121,7 +121,7 @@ CodeAlpha_Disease_Prediction/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Dhanush**
 
@@ -131,6 +131,6 @@ GitHub: https://github.com/dhanush1619
 
 ---
 
-## ⭐ Internship
+##  Internship
 
 This project was completed as part of the **CodeAlpha Machine Learning Internship**.
